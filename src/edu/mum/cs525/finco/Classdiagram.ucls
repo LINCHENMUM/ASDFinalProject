@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.13" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="edu.mum.cs525.finco.customersubsystem.model.ICustomer" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/model/ICustomer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="218" x="1078" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="edu.mum.cs525.finco.customersubsystem.model.Company" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/model/Company.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="276" x="510" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="edu.mum.cs525.finco.accountsubsystem.model.Transaction" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/model/Transaction.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="231" x="1065" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="edu.mum.cs525.finco.presentation.FinCoMainFrame" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoMainFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="693" width="309" x="3075" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="edu.mum.cs525.finco.accountsubsystem.model.AccountLogger" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/model/AccountLogger.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="214" x="2457" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="edu.mum.cs525.finco.FinCo" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/FinCo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="314" x="2277" y="6"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="edu.mum.cs525.finco.accountsubsystem.controller.EvaluateFunctor" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/controller/EvaluateFunctor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="328" x="1588" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="edu.mum.cs525.finco.presentation.FinCoAddPersonAccountDialog.SymAction" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoAddPersonAccountDialog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="3986" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="edu.mum.cs525.finco.presentation.FinCoMainFrame.SymAction" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoMainFrame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2958" y="1873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="edu.mum.cs525.finco.accountsubsystem.model.IAccount" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/model/IAccount.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="214" x="2566" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="edu.mum.cs525.finco.presentation.Mediator" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/Mediator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="184" x="3058" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="edu.mum.cs525.finco.customersubsystem.model.Customer" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/model/Customer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="315" width="263" x="762" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="edu.mum.cs525.finco.dataaccesssubsystem.IDataAccessSubSystem" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/dataaccesssubsystem/IDataAccessSubSystem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="203" x="1956" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="edu.mum.cs525.finco.accountsubsystem.controller.CompanyEvaluatorFunctor" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/controller/CompanyEvaluatorFunctor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="320" x="1408" y="1873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="edu.mum.cs525.finco.IFinCo" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/IFinCo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="314" x="3670" y="1873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="edu.mum.cs525.finco.customersubsystem.controller.CustomerController" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/controller/CustomerController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="355" x="367" y="6"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="edu.mum.cs525.finco.presentation.FinCoDepositDialog.SymAction" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoDepositDialog.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="3710" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="18" language="java" name="edu.mum.cs525.finco.accountsubsystem.model.TransactionType" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/model/TransactionType.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="212" x="826" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <interface id="19" language="java" name="edu.mum.cs525.finco.customersubsystem.model.ICompany" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/model/ICompany.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="218" x="844" y="1873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="20" language="java" name="edu.mum.cs525.finco.presentation.FinCoWithdrawDialog.SymAction" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoWithdrawDialog.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="3455" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="edu.mum.cs525.finco.dataaccesssubsystem.DataAccessSubSystem" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/dataaccesssubsystem/DataAccessSubSystem.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="223" x="1645" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="edu.mum.cs525.finco.customersubsystem.model.IAddress" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/model/IAddress.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="218" x="154" y="1873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="23" language="java" name="edu.mum.cs525.finco.accountsubsystem.controller.IAccountVisitor" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/controller/IAccountVisitor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="229" x="98" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="24" language="java" name="edu.mum.cs525.finco.accountsubsystem.controller.AccountController" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/controller/AccountController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="327" x="1929" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="edu.mum.cs525.finco.accountsubsystem.controller.AccountVisitor" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/controller/AccountVisitor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="229" x="98" y="6"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="edu.mum.cs525.finco.presentation.FinCoMainFrame.SymWindow" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoMainFrame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="199" x="3192" y="1873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="edu.mum.cs525.finco.customersubsystem.model.Person" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/model/Person.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="276" x="194" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="28" language="java" name="edu.mum.cs525.finco.customersubsystem.model.IPerson" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/model/IPerson.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="218" x="586" y="1873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="29" language="java" name="edu.mum.cs525.finco.presentation.FinCoAddCompanyAccountDialog" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoAddCompanyAccountDialog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="459" width="307" x="2711" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="edu.mum.cs525.finco.presentation.FinCoAddCompanyAccountDialog.SymAction" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoAddCompanyAccountDialog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2841" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="31" language="java" name="edu.mum.cs525.finco.customersubsystem.controller.ICustomerController" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/controller/ICustomerController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="355" x="367" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="32" language="java" name="edu.mum.cs525.finco.accountsubsystem.controller.PersonEvaluatorFunctor" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/controller/PersonEvaluatorFunctor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="320" x="1768" y="1873"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="edu.mum.cs525.finco.presentation.FinCoAddPersonAccountDialog" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoAddPersonAccountDialog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="296" x="3965" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="edu.mum.cs525.finco.presentation.FinCoWithdrawDialog" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoWithdrawDialog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="314" x="3282" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="35" language="java" name="edu.mum.cs525.finco.accountsubsystem.controller.IAccountController" 
+    project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/controller/IAccountController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="327" x="2199" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="36" language="java" name="edu.mum.cs525.finco.accountsubsystem.model.ITransaction" 
+    project="ASDFinalProject" file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/model/ITransaction.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="212" x="1336" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="37" language="java" name="edu.mum.cs525.finco.accountsubsystem.model.Account" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/accountsubsystem/model/Account.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="549" width="269" x="1336" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="edu.mum.cs525.finco.customersubsystem.model.Address" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/customersubsystem/model/Address.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="218" x="-85" y="1130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="edu.mum.cs525.finco.presentation.FinCoDepositDialog" project="ASDFinalProject" 
+    file="/ASDFinalProject/src/edu/mum/cs525/finco/presentation/FinCoDepositDialog.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="268" x="3636" y="541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="40">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="41" name="account"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="44" name="customerController"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="46">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="36"/>  
+  </realization>  
+  <association id="47">    
+    <bendpoint x="2810" y="1130"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="48" name="finco"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="50">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <realization id="51">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <association id="52">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="53" name="dbStore"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="55">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <realization id="56">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="57">    
+    <bendpoint x="3679" y="1130"/>    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="58" name="finco"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <bendpoint x="2286" y="541"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="61" name="accountController"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <bendpoint x="3955" y="1130"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="64" name="finco"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="67" name="myframe"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="70" name="parentframe"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="73">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="74" name="accountVisitor"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="77" name="customers"/>      
+      <multiplicity id="78" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="80" name="mediator"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="82">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <association id="83">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="84" name="transactions"/>      
+      <multiplicity id="85" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="86">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="87" name="account"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="89">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <association id="90">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="91" name="parentframe"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="93">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <nesting id="94">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <association id="95">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="96" name="address"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="98">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="99">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="100" name="mainFrame"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="103" name="accountOwner"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="105">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <generalization id="106">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="107">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="108">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="109" name="transactionType"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="111">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="112">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="113" name="parentframe"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <bendpoint x="163" y="1130"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="116" name="address"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="118">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="28"/>  
+  </realization>  
+  <association id="119">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="120" name="address"/>      
+      <multiplicity id="121" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="123" name="account"/>      
+      <multiplicity id="124" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="125">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="126" name="accountList"/>      
+      <multiplicity id="127" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="128">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="23"/>  
+  </realization>  
+  <association id="129">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="130" name="transactions"/>      
+      <multiplicity id="131" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="132">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="133">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="134" name="func"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <bendpoint x="3424" y="1130"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="137" name="finco"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="139">    
+    <bendpoint x="3934" y="541"/>    
+    <bendpoint x="3934" y="1130"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <nesting id="140">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <nesting id="141">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="142">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="143" name="parentframe"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="145">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="146" name="finco"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="148">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="149">    
+    <bendpoint x="1898" y="541"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="150" name="evaluateFuctor"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="152">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <realization id="153">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="35"/>  
+  </realization>  
+  <association id="154">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="155" name="accountList"/>      
+      <multiplicity id="156" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
